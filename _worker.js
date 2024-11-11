@@ -41,7 +41,7 @@ let ipUrlCsv = [
 	// 'https://raw.githubusercontent.com/amclubs/am-cf-tunnel/main/ipv4.csv'
 ];
 // Preferred addresses with optional TLS subscription
-let ipLocal = ;
+let ipLocal = [];
 let noTLS = 'false';
 let sl = 5;
 
